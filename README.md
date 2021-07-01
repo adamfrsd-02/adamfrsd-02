@@ -4,7 +4,13 @@
 
 # Hello, everyone! <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
-I'm Adam Firdaus, you can call me Adam. I'm from Indonesia, living in Batam. I'm Web Fullstack Enthusiast, especially in Front-End and UI Design. Now i'm study in State Polytechnic of Batam
+My name is Adam Firdaus, just call me Adam. I'm an Undergraduate Student of Multimedia & Networking at State Polytechnic of Batam. At this time, i'm working as Freelance Web-Developer. I'm interested in Fullstack Web Development, especially Front-End and UI Design.
+
+## About Me
+- 📌 Batam, Indonesia.
+- 📘 Still Stuck in PHP but Interested with JS.
+- 🌐 Behance : https://www.behance.net/adamfirdaus1
+- 🌐 Instagram : https://www.instagram.com/adamfrsd
 
 <!--## &#x270d; Blog & Writing
 
@@ -34,7 +40,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adamfrsd-02&repo=spa-perpus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamfrsd-02" alt="nagacoder" /></a><
+
 
 
 

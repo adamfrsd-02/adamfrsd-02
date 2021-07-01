@@ -30,6 +30,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adamfrsd-02&repo=bookstore-informationci&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/adamfrsd-02/spa-perpus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adamfrsd-02&repo=spa-perpus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 
 

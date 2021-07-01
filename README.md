@@ -4,9 +4,9 @@
 
 # Hello, everyone! <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
-My name is Adam Firdaus, just call me Adam. I'm an Undergraduate Student of Multimedia & Networking at State Polytechnic of Batam. At this time, i'm working as Freelance Web-Developer. I'm interested in Fullstack Web Development, especially Front-End and UI Design.
+My name is Adam Firdaus, just call me Adam. I'm an Undergraduate Student of Multimedia & Networking Engineering at State Polytechnic of Batam. At this time, i'm working as Freelance Web-Developer. Fullstack Web Development Enthusiast, especially Front-End and UI Design.
 
-## About Me
+## 🧑‍💻 About Me
 - 📌 Batam, Indonesia.
 - 📘 Still Stuck in PHP but Interested with JS.
 - 🌐 Behance : https://www.behance.net/adamfirdaus1

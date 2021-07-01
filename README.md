@@ -2,9 +2,9 @@
 
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)-->
 
-# Hello, folks! <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
+# Hello, everyone! <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
-My name is Adam Firdaus and I'm a Fullstack Enthusiast. I'm Indonesian, living in Batam and currently studying in State Polytechnic of Batam. You can find me on [![Youtube][1.2]][1],  or on [![Instagram][3.2]][3].
+I'm Adam Firdaus, you can call me Adam. I'm from Indonesia, living in Batam. I'm Web Fullstack Enthusiast, especially in Front-End and UI Design. Now i'm study in State Polytechnic of Batam
 
 <!--## &#x270d; Blog & Writing
 
@@ -18,11 +18,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/adamfrsd-02/batam_linux">
+<a href="https://github.com/adamfrsd-02/spa-perpus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfrsd-02&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/adamfrsd-02/spa-perpus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfrsd-02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/adamfrsd-02/batam_linux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfrsd-02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/adamfrsd-02/bookstore-informationci">
@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 <a href="https://github.com/adamfrsd-02/belajar-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adamfrsd-02&repo=belajar-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfrsd-02&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
